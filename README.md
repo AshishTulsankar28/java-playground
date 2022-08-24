@@ -1,2 +1,5 @@
-# java-playground
- Plain Java Q&A
+## CoreJava
+Simple Java programs referred from HackerRank
+
+
+
